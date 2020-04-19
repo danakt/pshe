@@ -5,9 +5,6 @@
   "repository": "git@github.com:danakt/pshe.git",
   "author": "Danakt Frost",
   "license": "MIT",
-  "devDependencies": {
-    "@types/node": "^13.13.0"
-  },
   "bin": {
     "пше": "./pshe"
   }
