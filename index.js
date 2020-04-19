@@ -126,7 +126,7 @@ module.exports.run = () => {
   const convertedArgs = convert(joinedArgs);
   const parsedArgs = parseArgs(convertedArgs);
 
-  console.log('> $ git ' + convertedArgs + '\n');
+  console.log('$ git ' + convertedArgs + '\n');
 
   spawn('git', parsedArgs, { stdio: 'inherit' });
 };
