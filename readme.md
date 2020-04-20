@@ -2,9 +2,9 @@
 [npm-link]: https://npmjs.com/package/@danakt/pshe
 
 # ПШЕ [![NPM][npm-badge]][npm-link]
-Хватит это терпеть!
+Незаменимый помощник для работы с git. Вы больше не сможете представить себе разработку без этого инструмента.
 
-<div style="text-align:center">
+<div align="center">
   <img src ="./screenshot.png" alt="Screenshot" width="489"/>
 </div>
 
