@@ -13,3 +13,9 @@
 ```
 yarn global add @danakt/pshe
 ```
+
+или
+
+```sh
+npm install -g @danakt/pshe
+```
