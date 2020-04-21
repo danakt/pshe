@@ -1,6 +1,6 @@
 {
   "name": "@danakt/pshe",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "main": "index.js",
   "repository": "git+https://github.com/danakt/pshe.git",
   "author": "Danakt Frost",
